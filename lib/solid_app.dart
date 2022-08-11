@@ -5,7 +5,7 @@ void main() {
   runApp(const SolidApp());
 }
 
-/// Entrance to the app
+/// Entrance to the apppppp
 class SolidApp extends StatelessWidget {
   /// Keysss
   const SolidApp({Key? key}) : super(key: key);
